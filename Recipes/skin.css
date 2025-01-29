@@ -1,0 +1,43 @@
+.copper {
+   color: brown;
+    text-align: center;
+    font-size: 64px;
+    margin-bottom: 32px;
+}
+
+.reci {
+    font-size: 32px;
+    font-weight: bold;
+    padding: 16px;
+    margin-bottom: 8px;
+}
+
+.thin {
+    font-weight: lighter;
+    font-size: 20px;
+    margin: auto;
+    padding: 32px;
+    border: 3px solid brown;
+    background: beige;
+}
+
+.slant {
+    font-style: italic;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+}
+
+.lists {
+    background-color: beige;
+}
+
+
+* {
+    background: lightgray;
+    font-family: copperplate;
+}
